@@ -1,15 +1,10 @@
 # Quantum-Walk
 QW's quantum - classical phase transition simulations and analysis (thesis project)
 
-Two main QW algorithms.
+Two main QW algorithms:
 
-Algorithm #1)
-
-The whole matrix theory code representation (slow).
-
-Algorithm #2)
-
-The QW generator representation (fast).
+1) The whole matrix theory code representation (slow).
+2) The QW generator representation (fast).
 
 .m instructions:
 
