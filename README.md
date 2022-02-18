@@ -11,7 +11,7 @@ Two main QW algorithms:
 1) Run the main file of chosen program.
 2) Run the corresponding output file.
 
-.ipnb instructions:
+.ipynb instructions:
 
 1) Install and run Jupyter Notebook (anaconda3).
 2) From Jupyter Notebook Open qiskit file.
